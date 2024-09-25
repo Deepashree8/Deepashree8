@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working on web development<br>I'm currently learning web development , AI 
-
+I'm currently learning and deploying Deep Learning and Generative AI 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Deepa Shree) 
